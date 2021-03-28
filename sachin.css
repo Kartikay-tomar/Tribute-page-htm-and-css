@@ -1,0 +1,124 @@
+.sachin{
+    left: 36%;
+    top: 3%;
+    position: absolute;
+    font-family: Arial;
+    font-weight: bolder;
+    font-size: 50px;
+    color: rgba(53,83,137,1);
+
+}
+ 
+.line{
+    left: 38%;
+    top: 12%;
+    position: absolute;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 39px;
+    color: rgba(70,37,2,1);
+}
+
+.img{
+    position: absolute;
+    width: 50%;
+    height: 50;
+    left: 25%;
+    top: 21%;
+    overflow: visible;
+    box-shadow: 0px 0px 20px black;
+}
+.tag
+{
+left: 83px;
+    top: 79%;
+    position: absolute;
+    font-family: Arial;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 20px;
+    color: rgba(53,83,137,1);
+}
+.odi{
+    left: 83px;
+    top: 86%;
+    position: absolute;
+    overflow: visible;
+    width: 1329px;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    color: rgba(53,83,137,1);
+}
+
+.odidetails{
+    left: 100px;
+    top: 88%;
+    position: absolute;
+    overflow: visible;
+    line-height: 55px;
+    margin-top: -6px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(70,37,2,1);
+}
+
+.test{
+    left: 83px;
+    top: 160%;
+    position: absolute;
+    overflow: visible;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    color: rgba(53,83,137,1);
+}
+
+.testdetails{
+    left: 100px;
+    top: 169%;
+    position: absolute;
+    overflow: visible;
+    line-height: 55px;
+    margin-top: -6px;
+    text-align: left;   
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(70,37,2,1);
+}
+
+.Extra{
+    left: 83px;
+    top: 208%;
+    position: absolute;
+    overflow: visible;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 45px;
+    color: rgba(53,83,137,1);
+}
+
+.extradetails{
+    left: 100px;
+    top: 218%;
+    position: absolute;
+    overflow: visible;
+    line-height: 55px;  
+    margin-top: -6px;
+    text-align: left;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: rgba(70,37,2,1);
+}
